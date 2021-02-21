@@ -1,0 +1,19 @@
+{
+    "name": "italomoralesf/platzi",
+    "description": "Proyecto basico",
+    "authors": [
+        {
+            "name": "italomoralesf",
+            "email": "i@rimorsoft.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+}
