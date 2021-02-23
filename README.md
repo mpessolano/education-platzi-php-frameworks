@@ -10,7 +10,7 @@
 
 **Año:** 2020
 
-Repositorio utilizado para el Curso de Introducción a Frameworks de PHP de Platzi.
+Repositorio utilizado para el "Curso de Introducción a Frameworks de PHP" de Platzi.
 
 El directorio **platzi** contiene la implementación de todas las lecciones.
 
@@ -19,3 +19,5 @@ El directorio **platzi** contiene la implementación de todas las lecciones.
 ### Enlace
 
 https://platzi.com/clases/php-frameworks/
+
+https://platzi.com/cursos/php-frameworks/
